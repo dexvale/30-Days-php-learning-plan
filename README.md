@@ -4,6 +4,7 @@ Nice plan, Lily! 💙 Since **365 days is too long**, I compressed your PHP road
 This is **realistic for beginners** and focuses on the MOST IMPORTANT skills only.
 
 ---
+</> Markdown
 
 # ✅ **30-Day PHP Learning Plan (Beginner → Mini Projects)**
 
